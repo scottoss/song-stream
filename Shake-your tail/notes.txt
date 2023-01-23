@@ -1,11 +1,11 @@
 #TITLE:Shake Your Tail
 #ARTIST:Equestria Girls - Rainbow Rocks
-#MP3:song.mp3
+#MP3:https://mlk.bronystore.com/shake%20your%20tail/song.mp3
 #CREATOR:Smilley
 #LANGUAGE:English
-#COVER:cover.png
-#BACKGROUND:background.png
-#VIDEO:video.mp4
+#COVER:https://mlk.bronystore.com/shake%20your%20tail/cover.png
+#BACKGROUND:https://mlk.bronystore.com/shake%20your%20tail/background.png
+#VIDEO:https://mlk.bronystore.com/shake%20your%20tail/video.mp4
 #BPM:279.76
 #GAP:551
 #EDITION:My Little Pony
