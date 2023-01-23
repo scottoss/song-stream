@@ -1,0 +1,337 @@
+#TITLE:apples to the core
+#ARTIST:my little pony
+#LANGUAGE:English
+#EDITION:My Little Pony
+#GENRE:Country
+#CREATOR:my little karaoke
+#MP3:https://github.com/scottoss/mlksongs/blob/main/apples%20to%20the%20core/apples.mp3
+#COVER:https://github.com/scottoss/mlksongs/blob/main/apples%20to%20the%20core/apples.jpg
+#VIDEO:https://github.com/scottoss/mlksongs/blob/main/apples%20to%20the%20core/apples.webm
+#VIDEOGAP:0.00
+#RELATIVE:No
+#PREVIEWSTART:60
+#BPM:240,54
+#GAP:6261,000
+#USDB:2524
+F 0 3 0 Come
+F 4 3 0  on,
+F 8 7 0  Apples!
+- 16  
+F 18 5 0 Y'all
+F 24 3 0  know
+F 28 2 0  this
+F 31 5 0  one!
+- 38  
+F 40 4 0 Hot
+F 45 5 0  diggity!
+- 50  
+F 52 17 0 Yee
+F 70 10 0 -haw!
+- 89  
+F 92 5 0 Eeyup!
+- 97  
+: 99 3 0 We
+: 103 3 0  tra
+: 107 4 0 vel
+: 112 3 3  the
+: 115 3 4 -e
+* 119 6 0  road
+- 126  
+: 128 3 2 Of
+: 131 3 4 ~
+: 135 7 5  ge
+: 143 5 9 ne
+: 150 4 7 ra
+: 154 5 4 tions
+- 164  
+: 166 8 5 Joined
+: 175 3 9  by
+: 179 3 7  a
+: 183 7 7  com
+: 190 7 4 mon
+* 198 16 4  bo
+: 215 6 2 -ond
+- 225  
+: 227 2 -5 We
+: 231 6 0  sing
+: 239 3 3  o
+: 242 3 4 -ur
+: 246 6 0  song
+- 253  
+: 255 3 2 'Cross
+: 259 2 4  the
+: 262 7 5  po
+* 271 5 9 ny
+: 278 3 7  na
+: 282 2 4 tion
+- 286  
+: 288 2 4 From
+: 291 4 4  E
+: 295 4 5 ques
+: 299 3 5 tri
+* 303 4 9 a
+: 311 5 7  and
+: 320 8 2  be
+: 328 13 0 yond
+- 351  
+: 355 4 4 We're
+: 360 3 5  Ap
+: 365 5 5 ples
+: 372 3 5  for
+: 376 3 4 e
+: 380 3 0 ver
+- 388  
+: 390 3 5 Ap
+: 396 2 5 ples
+: 399 7 9  to
+: 407 3 7 get
+: 411 4 4 her
+- 417  
+: 419 3 4 We're
+* 423 4 5  fam'
+* 428 2 5 ly
+: 431 7 9  but
+: 439 6 7  so
+: 447 7 4  much
+: 455 15 4  mo
+: 471 8 2 -ore
+- 481  
+: 483 3 5 No
+: 487 4 5  mat
+: 491 3 5 ter
+: 495 5 5  what
+: 503 5 4  comes
+- 509  
+: 511 3 2 We
+: 515 4 4  will
+: 520 5 5  face
+: 527 6 9  the
+: 535 4 7  wea
+: 539 4 4 ther
+- 545  
+: 547 4 2 We're
+: 552 4 4  Ap
+: 559 7 4 ples
+* 567 6 4  to
+: 575 3 2  the
+: 578 3 0 -e
+: 583 17 0  core
+- 611  
+: 615 8 0 There's
+: 624 3 2  no
+: 627 3 4 -o
+: 631 5 0  place
+- 637  
+: 639 4 3 That
+: 644 4 4  I'd
+: 649 6 5  ra
+: 656 5 9 ther
+* 665 5 7  be,
+- 673  
+: 675 4 4 Than
+: 680 4 5  tra
+: 685 3 5 vel
+* 688 6 9 lin'
+: 695 6 7  with
+: 704 5 4  my
+: 712 10 4  fa
+: 724 3 2 mi
+: 728 5 2 ly
+- 741  
+: 744 7 0 Friends
+: 753 3 3  all
+: 757 3 4  a
+: 761 7 0 round
+: 769 4 2  come
+: 774 2 4  to
+* 777 7 5  join
+: 785 6 9  and
+: 793 4 7  see
+- 799  
+: 801 2 4 As
+: 804 3 4  we
+* 808 3 5  sing
+: 812 3 5  out
+: 816 7 9  a
+: 824 7 7 cross
+: 832 6 11  the
+: 840 20 12  land
+- 866  
+: 868 3 5 We're
+: 872 4 5  Ap
+: 877 6 5 ples
+: 884 4 5  for
+: 889 3 4 e
+: 893 3 0 ver
+- 901  
+: 903 4 5 App
+: 908 3 5 les
+* 912 6 9  to
+: 920 4 7 get
+: 925 3 4 her
+- 930  
+: 932 3 4 We're
+: 936 4 5  fam'
+: 941 2 5 ly
+: 944 6 9  but
+: 951 8 7  so
+: 960 7 4  much
+* 968 14 4  mo
+* 983 8 2 -ore
+- 994  
+: 996 3 5 No
+: 1000 4 5  mat
+: 1004 3 5 ter
+: 1008 5 5  what
+: 1016 5 4  comes
+- 1023  
+: 1025 2 2 We
+: 1028 4 4  will
+: 1033 5 5  face
+* 1040 6 9  the
+: 1048 4 7  wea
+: 1052 5 4 ther
+- 1059  
+: 1061 3 4 We're
+: 1065 2 4  Ap
+: 1069 10 4 ples
+: 1080 5 4  to
+: 1087 4 2  the
+: 1091 3 0 -e
+: 1096 19 0  core
+- 1121  
+: 1124 3 5 We're
+: 1128 9 5  peas
+: 1138 2 5  in
+: 1141 2 5  a
+* 1145 4 10  pod,
+- 1151  
+: 1153 3 10 We'
+: 1157 3 9 -re
+: 1161 7 7  thick
+: 1169 5 9  as
+: 1177 10 7  thieves
+- 1191  
+: 1193 4 5 A
+: 1197 3 5 ny
+: 1201 6 5  cli
+: 1209 7 5 ché
+: 1217 3 5  you
+: 1221 3 5  can
+: 1225 8 7  throw
+: 1234 5 7  at
+: 1240 7 7  me
+- 1251  
+: 1253 3 9 We're
+: 1257 6 9  here
+: 1266 3 7  for
+: 1270 3 9  each
+: 1274 3 7  o
+: 1277 2 4 ther
+- 1280  
+: 1282 4 4 Through
+: 1290 6 5  thick
+: 1297 3 7  a
+: 1300 3 9 -and
+: 1305 6 7  thin
+- 1315  
+: 1317 4 4 You're
+: 1322 3 4  a
+: 1325 3 2 -al
+: 1329 7 2 ways
+: 1337 4 2  wel
+: 1342 2 2 come
+: 1345 3 2  with
+: 1349 4 2  your
+* 1354 6 7  Ap
+* 1361 6 9 ple
+: 1368 12 7  kin
+- 1396  
+: 1417 7 6 You're
+: 1426 5 6  more
+: 1433 6 6  fun
+- 1440  
+: 1442 3 6 Than
+: 1446 3 9  the
+: 1450 6 11  co
+* 1458 6 11 lor
+: 1465 4 9  pink
+- 1471  
+: 1473 4 6 Or
+: 1478 3 9  bal
+: 1482 6 11 loons
+: 1490 4 11  fly
+: 1495 3 11 ing
+: 1499 4 9  o
+: 1503 2 6 ver
+- 1505  
+: 1507 4 6 Your
+: 1514 8 6  fav'
+: 1523 5 6 rite
+: 1530 7 4  drink
+- 1541  
+: 1543 3 2 The
+: 1547 7 2  love
+: 1555 2 4  I
+* 1558 3 6 -I
+: 1563 4 2  feel
+- 1568  
+: 1570 4 6 Here
+: 1575 3 9  is
+: 1579 6 11  swim
+: 1586 6 11  not
+: 1594 5 9  sink
+- 1601  
+: 1603 3 6 As
+: 1607 3 9  we
+* 1611 3 11  par
+* 1615 3 11 ty
+: 1619 5 11  a
+: 1626 8 9 cross
+: 1636 3 6  thi
+: 1639 3 4 -is
+: 1644 13 2  land
+- 1667  
+: 1671 3 7 We're
+: 1675 3 7  Ap
+: 1679 7 7 ples
+: 1687 3 7  for
+: 1691 4 6 e
+: 1696 4 2 ver
+- 1704  
+: 1706 3 7 App
+: 1711 3 7 les
+: 1715 6 11  to
+: 1722 5 9 get
+: 1727 4 6 her
+- 1733  
+: 1735 3 6 We're
+: 1739 4 7  fam'
+: 1744 3 7 ly
+: 1748 5 11  but
+: 1755 6 9  so
+: 1763 6 6  much
+: 1770 17 6  mo
+: 1788 6 4 -ore
+- 1796  
+: 1798 4 6 No
+: 1803 4 7  mat
+: 1807 3 7 ter
+: 1812 4 7  what
+: 1819 4 6  comes
+- 1825  
+: 1827 3 4 We
+: 1831 3 6  will
+: 1835 7 7  face
+: 1843 7 11  the
+: 1851 3 9  wea
+: 1855 4 6 ther
+- 1861  
+: 1863 3 6 We're
+: 1867 4 6  Ap
+: 1873 8 6 ples
+* 1883 6 6  to
+: 1891 3 4  the
+: 1894 3 2 -e
+: 1898 24 2  core
+E
