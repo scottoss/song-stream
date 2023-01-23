@@ -6,7 +6,7 @@
 #CREATOR:my little karaoke
 #MP3:https://raw.githubusercontent.com/scottoss/mlksongs/main/apples-to-the-core/apples.mp3
 #COVER:https://raw.githubusercontent.com/scottoss/mlksongs/main/apples-to-the-core/apples.jpg
-#VIDEO:https://raw.githubusercontent.com/scottoss/mlksongs/main/apples-to-the-core/apples.webm
+#BACKGROUND:https://raw.githubusercontent.com/scottoss/mlksongs/main/apples-to-the-core/applesbg.png
 #VIDEOGAP:0.00
 #RELATIVE:No
 #PREVIEWSTART:60
