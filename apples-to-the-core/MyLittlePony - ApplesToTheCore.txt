@@ -4,9 +4,9 @@
 #EDITION:My Little Pony
 #GENRE:Country
 #CREATOR:my little karaoke
-#MP3:https://github.com/scottoss/mlksongs/blob/main/apples%20to%20the%20core/apples.mp3
-#COVER:https://github.com/scottoss/mlksongs/blob/main/apples%20to%20the%20core/apples.jpg
-#VIDEO:https://github.com/scottoss/mlksongs/blob/main/apples%20to%20the%20core/apples.webm
+#MP3:https://raw.githubusercontent.com/scottoss/mlksongs/main/apples-to-the-core/apples.mp3
+#COVER:https://raw.githubusercontent.com/scottoss/mlksongs/main/apples-to-the-core/apples.jpg
+#VIDEO:https://raw.githubusercontent.com/scottoss/mlksongs/main/apples-to-the-core/apples.webm
 #VIDEOGAP:0.00
 #RELATIVE:No
 #PREVIEWSTART:60
