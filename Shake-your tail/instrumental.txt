@@ -1,10 +1,10 @@
 #TITLE:Shake Your Tail (Instrumental)
 #ARTIST:Equestria Girls - Rainbow Rocks
-#MP3:https://mlk.bronystore.com/shake%20your%20tail/instrumental.mp3
+#MP3:https://mlk.bronystore.com/songs/official/shake%20your%20tail/instrumental.mp3
 #CREATOR:Smilley
 #LANGUAGE:English
-#COVER:https://mlk.bronystore.com/shake%20your%20tail/cover.png
-#BACKGROUND:https://mlk.bronystore.com/shake%20your%20tail/background.png
+#COVER:https://mlk.bronystore.com/songs/official/shake%20your%20tail/cover.png
+#BACKGROUND:https://mlk.bronystore.com/songs/official/shake%20your%20tail/background.png
 #BPM:279.76
 #GAP:551
 #EDITION:My Little Pony
